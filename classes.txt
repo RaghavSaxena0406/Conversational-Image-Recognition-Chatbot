@@ -1,0 +1,16 @@
+{
+    "0": "tench",
+    "1": "goldfish",
+    "2": "great white shark",
+    "3": "tiger shark",
+    "4": "hammerhead",
+    "5": "electric ray",
+    "6": "stingray",
+    "7": "cock",
+    "8": "hen",
+    "9": "ostrich",
+    "10": "dog",
+    "11": "cat",
+    "12": "car",
+    "13": "tree"
+}
