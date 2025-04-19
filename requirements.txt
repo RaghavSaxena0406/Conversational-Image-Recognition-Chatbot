@@ -12,3 +12,4 @@ opencv-python==4.9.0.80
 pandas==2.2.0
 matplotlib==3.8.3
 nltk==3.8.1
+streamlit
